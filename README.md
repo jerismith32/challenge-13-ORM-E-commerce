@@ -1,12 +1,12 @@
 # challenge-13-ORM-E-commerce
-## Description
+  ## Description
   `User Story`
 
-  AS A manager at an internet retail company
+    AS A manager at an internet retail company
 
-  I WANT a back end for my e-commerce website that uses the latest technologies
+    I WANT a back end for my e-commerce website that uses the latest technologies
 
-  SO THAT my company can compete with other e-commerce companies
+    SO THAT my company can compete with other e-commerce companies
 
   ## Table of Contents 
   * [Installation](#installation)
@@ -46,7 +46,7 @@
 
 
   ## Video
-  [Video Walk Through](https://drive.google.com/file/d/1qK4KbAIZNtBcMIrU9Dk4cYyDipk5L3GK/view)
+  [Video Walk Through](https://drive.google.com/file/d/1AmvkXZNXgMtZ2ctiupo6GWxZTzZzbH-b/view)
 
   ## Questions
   [GitHub](https://github.com/jerismith32)
